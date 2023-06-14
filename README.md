@@ -7,6 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
@@ -20,7 +21,8 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+# This is heading 1
+### This is heading 3
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
@@ -65,6 +67,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+##My Commit Message
+Tested out the h1,h2 and h3 headers using markdown.
 <footer>
 
 <!--

@@ -7,6 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
@@ -20,24 +21,21 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+# This is heading 1
+### This is heading 3
 ## Step 1: Add headers
 
-_Welcome to "Communicate using Markdown"! :wave:_
-
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
-
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
-
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
 ### Example
 
 ```md
 # This is an `<h1>` header, which is the largest
 
+=======
+## Step 1: Add headers
+
+
+`
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
@@ -65,6 +63,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+##My Commit Message
+Tested out the h1,h2 and h3 headers using markdown.
 <footer>
 
 <!--
